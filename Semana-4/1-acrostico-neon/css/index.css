@@ -42,9 +42,9 @@
 
 .hero__name {
     display: flex;
-    gap: 1.5rem;
-    font-size: 3.5rem;
-    font-weight: 500;
+    gap: 1rem;
+    font-size: 4.5rem;
+    font-weight: 400;
     text-decoration: none;
     animation: zoom 2s ease-in-out infinite alternate;
 }
@@ -91,7 +91,7 @@
     position: absolute;
     top: 75%;
     left: 0;
-    filter: blur(0.25rem);
+    filter: blur(0.15rem);
     transform: rotateX(137.5deg);
 }
 
